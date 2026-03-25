@@ -1,5 +1,5 @@
 pandas
-pytest
 openpyxl
+pytest
 flake8
 isort
