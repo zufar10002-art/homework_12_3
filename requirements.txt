@@ -1,0 +1,5 @@
+pandas
+pytest
+openpyxl
+flake8
+isort
